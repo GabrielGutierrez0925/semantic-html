@@ -1,2 +1,2 @@
 # semantic-html
-An example of semantic HTML
+My starter 
